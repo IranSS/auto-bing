@@ -68,7 +68,7 @@ class autoBing:
         self.campo_qtd_repeticoes.grid(row=10, column=0, sticky="w")
 
         #Salvar conteudos
-        self.definir = tk.Button(frame, text="Definir quantidade", command=self.salvarConteudos, justify="center")
+        self.definir = tk.Button(frame, text="Salvar dados", command=self.salvarConteudos, justify="center")
         self.definir.grid(row=11, column=0, sticky="w")
 
         
