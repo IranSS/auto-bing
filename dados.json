@@ -1,1 +1,25 @@
-{"x": "339", "y": "122", "repeticoes": "2"}
+{
+  "url": "",
+  "busca": "",
+  "browser": "edge",
+  "repeticoes": "2",
+  "espera": "3",
+  "x": "359",
+  "y": "131",
+  "default_click_mode": "default",
+  "default_click_preset": "teste",
+  "acoes": "\n\n\n\n\n\n\n\n\n",
+  "theme": "dark",
+  "click_presets": [
+    {
+      "name": "campo de pesquisa",
+      "x": 359,
+      "y": 131
+    },
+    {
+      "name": "teste",
+      "x": 111,
+      "y": 111
+    }
+  ]
+}
