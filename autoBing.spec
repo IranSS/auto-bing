@@ -5,7 +5,7 @@ a = Analysis(
     ['autoBing.py'],
     pathex=[],
     binaries=[],
-    datas=[('assets/AutoBingIcon.ico', 'assets')],
+    datas=[('assets\\icon.ico', 'assets')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['assets\\AutoBingIcon.ico'],
+    icon=['assets\\icon.ico'],
 )
